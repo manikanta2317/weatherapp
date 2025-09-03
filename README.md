@@ -33,6 +33,8 @@ It shows **current weather**, a **5-day forecast**, and an **hourly forecast**, 
 
 ---
 
+## Live app url 
+  https://the-simpleweatherapp.netlify.app/
 ## 📷 Screenshots
 
 *(Add screenshots of your app UI here – e.g., current weather, forecast, hourly view)*
