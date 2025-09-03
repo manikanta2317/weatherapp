@@ -38,4 +38,5 @@ It shows **current weather**, a **5-day forecast**, and an **hourly forecast**, 
 ## 📷 Screenshots
 
 *(Add screenshots of your app UI here – e.g., current weather, forecast, hourly view)*
+<img width="530" height="829" alt="Screenshot 2025-09-02 232739" src="https://github.com/user-attachments/assets/5228bbbf-2035-455c-af5f-71b6172d3360" />
 
