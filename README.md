@@ -33,7 +33,7 @@ It shows **current weather**, a **5-day forecast**, and an **hourly forecast**, 
 
 ---
 
-## Live app url 
+## Live app url on Netlify
   https://the-simpleweatherapp.netlify.app/
 ## 📷 Screenshots
 
